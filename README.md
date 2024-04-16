@@ -9,3 +9,5 @@ Deep learning and computer vision based intelligent robot arm picks different co
 - how to use OpenCV
 - how to train a yolov5 model (deep learning)
 - how to use Dobot and RealSense api
+
+You can view our demo by visiting the video https://youtu.be/lpzVwQIzMhM?si=JPhQXJa5e3zJex9v and https://youtu.be/U5HBWdTwz8k?si=u7mHrlaMDJk7-0RA
