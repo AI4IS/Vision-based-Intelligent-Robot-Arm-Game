@@ -6,7 +6,7 @@ Deep learning and computer vision based intelligent robot arm picks different co
 - RealSense d435 (depth camera)
 
 
-<img src=https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game/blob/main/yds%20pic/Dobot.jpg width=30% /><img src=https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game/blob/main/yds%20pic/realsense%20d435.jpg width=20% />
+<img src=https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game/blob/main/yds%20pic/Dobot.jpg width=30% /><img src=https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game/blob/main/yds%20pic/realsense%20d435.jpg width=24% />
 
 
 ## You should know
