@@ -12,4 +12,4 @@ Deep learning and computer vision based intelligent robot arm picks different co
 - Robot arm inverse kinematics
 - Camera calibration
 
-You can view our demo by visiting the video https://youtu.be/lpzVwQIzMhM?si=JPhQXJa5e3zJex9v and https://youtu.be/U5HBWdTwz8k?si=u7mHrlaMDJk7-0RA
+You can view our demo by visiting the video https://youtu.be/lpzVwQIzMhM?si=JPhQXJa5e3zJex9v , https://youtu.be/U5HBWdTwz8k?si=u7mHrlaMDJk7-0RA and https://youtu.be/rpkPVAdVu0Y
