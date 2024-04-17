@@ -5,6 +5,8 @@ Deep learning and computer vision based intelligent robot arm picks different co
 - Dobot (robot arm)
 - RealSense (depth camera)
 
+![Dobot](/yds pic/Dobot.jpg)
+
 ## You should know
 - how to use OpenCV
 - how to train a yolov5 model (deep learning)
