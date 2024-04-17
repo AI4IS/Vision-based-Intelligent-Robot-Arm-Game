@@ -6,7 +6,7 @@ Deep learning and computer vision based intelligent robot arm picks different co
 - RealSense (depth camera)
 
 
-<img src=(https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game/blob/main/yds%20pic/Dobot.jpg width=50% />
+<img src=https://github.com/AI4IS/Vision-based-Intelligent-Robot-Arm-Game/blob/main/yds%20pic/Dobot.jpg width=50% />
 
 ## You should know
 - how to use OpenCV
